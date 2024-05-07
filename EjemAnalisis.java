@@ -23,7 +23,7 @@ public class EjemAnalisis {
          long Final= System.currentTimeMillis();
          long Total = Final - Inicio;
          System.out.println("Tiempo: "+Total+" ns ");
-return Resultado;
+return Resultado;lkasd
           }
 
 }
